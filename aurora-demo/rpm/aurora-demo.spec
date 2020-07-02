@@ -8,7 +8,7 @@ Name:       aurora-demo
 # >> macros
 # << macros
 
-Summary:    My Aurora OS Application
+Summary:    Aurora Demo
 Version:    0.1
 Release:    1
 Group:      Qt/Qt
